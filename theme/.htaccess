@@ -1,0 +1,12 @@
+#
+# Indexfull by @yoet92
+# author: Tony Duran <yoet92@gmail.com>
+# git: https://github.com/yoet92/indexfull.git
+# Basado en Apaxy by @adamwhitcroft
+#
+# For a full breakdown of the mod_autoindex module:
+# http://apache.org/docs/2.2/mod/mod_autoindex.html
+#
+
+#	Don't index this folder
+Options -Indexes
